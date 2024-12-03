@@ -1657,7 +1657,7 @@ nav a:hover {
     height: 20%;
     width: 100%;
     background-color: #0000FF;
-    color: #000000;
+    color: #4E2F2F;
   }
   
   .title {
@@ -1667,6 +1667,6 @@ nav a:hover {
   .answer {
     font-family: 'Overpass', serif;
     margin-left: 2%;
-    color: #3232CD;
+    color: #855E42;
   }
   
